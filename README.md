@@ -22,7 +22,7 @@ A Google API key with access to the Gemini Pro model
 
 Clone the repository:
 
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/ShreyaSivram/Personal_Chatbot.git
 cd repo-name
 
 **Set up a virtual environment:**
